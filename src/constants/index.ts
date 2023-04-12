@@ -5,4 +5,4 @@ export const TRANSLATE_CHROME_INSTALL = 'The app icon will be displayed on your 
 export const TRANSLATE_INSTALL_BUTTON = 'install';
 
 export const COOKIE_NAME = 'add-to-home-screen-pwa';
-export const COOKIE_EXPIRE_DAYS = 30;
+export const COOKIE_EXPIRE_DAYS = 0;
